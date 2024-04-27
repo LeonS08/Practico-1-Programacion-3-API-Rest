@@ -1,0 +1,272 @@
+{
+    "seleccion": [
+        {
+            "id": 0,
+            "fuentes": "https://www.transfermarkt.es/argentina/kader/verein/3437/saison_id/2023/plus/1"
+        },
+        {
+            "id": 1,
+            "numero de camiseta": 23,
+            "nombre": "Emiliano",
+            "apellido": "Martinez",
+            "posicion": "Portero",
+            "edad": 31,
+            "altura": "1,95m",
+            "pie dominante": "derecho",
+            "valor de mercado": "28,00 mill. €"
+        },
+        {
+            "id": 2,
+            "numero de camiseta": 12,
+            "nombre": "Walter",
+            "apellido": "Benítez",
+            "posicion": "Portero",
+            "edad": 31,
+            "altura": "1,91m",
+            "pie dominante": "derecho",
+            "valor de mercado": "13,00 mill. €"
+        },
+        {
+            "id": 3,
+            "numero de camiseta": 1,
+            "nombre": "Franco",
+            "apellido": "Armani",
+            "posicion": "Portero",
+            "edad": 37,
+            "altura": "1,89m",
+            "pie dominante": "derecho",
+            "valor de mercado": "1,20 mill. €"
+        },
+        {
+            "id": 4,
+            "numero de camiseta": 13,
+            "nombre": "Cristian",
+            "apellido": "Romero",
+            "posicion": "Defensa central",
+            "edad": 26,
+            "altura": "1,85m",
+            "pie dominante": "derecho",
+            "valor de mercado": "60,00 mill. €"
+        },
+        {
+            "id": 5,
+            "numero de camiseta": 2,
+            "nombre": "Nehuén",
+            "apellido": "Pérez",
+            "posicion": "Defensa central",
+            "edad": 23,
+            "altura": "1,86m",
+            "pie dominante": "derecho",
+            "valor de mercado": "12,00 mill €"
+        },
+        {
+            "id": 6,
+            "numero de camiseta": 25,
+            "nombre": "Nicolás",
+            "apellido": "Valentini",
+            "posicion": "Defensa central",
+            "edad": 23,
+            "altura": "1,87m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "6,00 mill. €"
+        },
+        {
+            "id": 7,
+            "numero de camiseta": 6,
+            "nombre": "Germán",
+            "apellido": "Pezzella",
+            "posicion": "Defensa central",
+            "edad": 32,
+            "altura": "1,87",
+            "pie dominante": "derecho",
+            "valor de mercado": "5,00 mill. €"
+        },
+        {
+            "id": 8,
+            "numero de camiseta": 19,
+            "nombre": "Nicolás",
+            "apellido": "Otamendi",
+            "posicion": "Defensa central",
+            "edad": 36,
+            "altura": "1,83m",
+            "pie dominante": "derecho",
+            "valor de mercado": "1,50 mill. €"
+        },
+        {
+            "id": 9,
+            "numero de camiseta": 26,
+            "nombre": "Valentín",
+            "apellido": "Barco",
+            "posicion": "Lateral izquierdo",
+            "edad": 19,
+            "altura": "1,70m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "13,00 mill. €"
+        },
+        {
+            "id": 10,
+            "numero de camiseta": 3,
+            "nombre": "Nicolás",
+            "apellido": "Tagliafico",
+            "posicion": "Lateral izquierdo",
+            "edad": 31,
+            "altura": "1,72m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "8,00 mill. €"
+        },
+        {
+            "id": 11,
+            "numero de camiseta": 4,
+            "nombre": "Nahuel",
+            "apellido": "Molina",
+            "posicion": "Lateral derecho",
+            "edad": 26,
+            "altura": "1,75m",
+            "pie dominante": "derecho",
+            "valor de mercado": "35,00 mill. €"
+        },
+        {
+            "id": 12,
+            "numero de camiseta": 18,
+            "nombre": "Guido",
+            "apellido": "Rodríguez",
+            "posicion": "Mediocentro defensivo",
+            "edad": 30,
+            "altura": "1,85m",
+            "pie dominante": "derecho",
+            "valor de mercado": "24,00 mill. €"
+        },
+        {
+            "id": 13,
+            "numero de camiseta": 5,
+            "nombre": "Leandro",
+            "apellido": "Paredes",
+            "posicion": "Mediocentro defensivo",
+            "edad": 29,
+            "altura": "1,80m",
+            "pie dominante": "derecho",
+            "valor de mercado": "8,00 mill. €"
+        },
+        {
+            "id": 14,
+            "numero de camiseta": 8,
+            "nombre": "Enzo",
+            "apellido": "Fernández",
+            "posicion": "mediocentro",
+            "edad": 23,
+            "altura": "1,78m",
+            "pie dominante": "derecho",
+            "valor de mercado": "80,00 mill. €"
+        },
+        {
+            "id": 15,
+            "numero de camiseta": 20,
+            "nombre": "Alexis Mac",
+            "apellido": "Allister",
+            "posicion": "mediocentro",
+            "edad": 25,
+            "altura": "1,76m",
+            "pie dominante": "derecho",
+            "valor de mercado": "70,00 mill. €"
+        },
+        {
+            "id": 16,
+            "numero de camiseta": 7,
+            "nombre": "Rodrigo de",
+            "apellido": "Paul",
+            "posicion": "mediocentro",
+            "edad": 29,
+            "altura": "1,80m",
+            "pie dominante": "derecho",
+            "valor de mercado": "30,00 mill. €"
+        },
+        {
+            "id": 17,
+            "numero de camiseta": 14,
+            "nombre": "Facundo",
+            "apellido": "Buonanotte",
+            "posicion": "mediocentro Ofensivo",
+            "edad": 19,
+            "altura": "1,74m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "18,00 mill. €"
+        },
+        {
+            "id": 18,
+            "numero de camiseta": 16,
+            "nombre": "Giovani Lo",
+            "apellido": "Celso",
+            "posicion": "mediocentro Ofensivo",
+            "edad": 28,
+            "altura": "1,77m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "16,00 mill. €"
+        },
+        {
+            "id": 19,
+            "numero de camiseta": 24,
+            "nombre": "Valentín",
+            "apellido": "Carboni",
+            "posicion": "mediocentro Ofensivo",
+            "edad": 19,
+            "altura": "1,85m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "15,00 mill. €"
+        },
+        {
+            "id": 20,
+            "numero de camiseta": 17,
+            "nombre": "Alejandro",
+            "apellido": "Garnacho",
+            "posicion": "Extremo izquierdo",
+            "edad": 19,
+            "altura": "1,80m",
+            "pie dominante": "derecho",
+            "valor de mercado": "40,00 mill. €"
+        },
+        {
+            "id": 21,
+            "numero de camiseta": 15,
+            "nombre": "Nicolás",
+            "apellido": "González",
+            "posicion": "Extremo derecho",
+            "edad": 26,
+            "altura": "1,80m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "40,00 mill. €"
+        },
+        {
+            "id": 22,
+            "numero de camiseta": 11,
+            "nombre": "Ángel Di",
+            "apellido": "María",
+            "posicion": "Extremo derecho",
+            "edad": 36,
+            "altura": "1,78m",
+            "pie dominante": "izquierdo",
+            "valor de mercado": "4,00 mill. €"
+        },
+        {
+            "id": 23,
+            "numero de camiseta": 9,
+            "nombre": "Julián",
+            "apellido": "Álvarez",
+            "posicion": "Mediapunta",
+            "edad": 24,
+            "altura": "1,70m",
+            "pie dominante": "derecho",
+            "valor de mercado": "90,00 mill. €"
+        },
+        {
+            "id": 24,
+            "numero de camiseta": 22,
+            "nombre": "Lautaro",
+            "apellido": "Martinez",
+            "posicion": "Delantero centro",
+            "edad": 26,
+            "altura": "1,74m",
+            "pie dominante": "derecho",
+            "valor de mercado": "110,00 mill. €"
+        }
+    ]
+}

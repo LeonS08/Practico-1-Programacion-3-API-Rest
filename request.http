@@ -1,0 +1,34 @@
+GET http://localhost:3000/seleccion HTTP/1.1
+
+###
+GET http://localhost:3000/seleccion/14 HTTP/1.1
+
+###
+POST http://localhost:3000/seleccion HTTP/1.1
+Content-Type: application/json
+
+{
+    "numero de camiseta": 10,
+    "nombre": "Leonel",
+    "apellido": "Messi",
+    "posicion": "Extremo derecho",
+    "edad": 36,
+    "altura": "1,70m",
+    "pie dominante": "izquierdo",
+    "valor de mercado": "30,00 mill. €"
+
+}
+
+###
+GET http://localhost:3000/seleccion/0 HTTP/1.1
+
+###
+PUT http://localhost:3000/seleccion/25 HTTP/1.1
+Content-Type: application/json
+
+{
+    "edad": 35
+}
+###
+
+DELETE http://localhost:3000/seleccion/24 HTTP/1.1
